@@ -1,1 +1,4 @@
- export const addItem = (req, res) => {};
+ export const addItem = (req, res) => {
+    const {}=req.body;
+    
+ };
